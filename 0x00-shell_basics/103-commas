@@ -1,2 +1,2 @@
-#!/bin/bash
-ls -amv
+#!/bin/bashsd 
+ls -amvp
